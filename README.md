@@ -5,4 +5,5 @@ Guemil es una iniciativa de pictogramas open source, orientada a representar sit
 
 El proyecto Guemil tiene un minisitio de descarga: www.guemil.info
 
-Please send me an email! / rramireo@uc.cl
+Please send me an email! / Por favor envíame un email!
+guemilproject@gmail.com

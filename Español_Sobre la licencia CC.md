@@ -3,7 +3,10 @@
 #### Qué puedes hacer y qué no con estos pictogramas?
 
 
-El proyecto Guemil está licenciado bajo una Licencia Creative Commons Attribution-NonCommercial-ShareAlike 4.0 Internacional. 
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />
+
+El proyecto Guemil está licenciado bajo una Licencia <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
 
 ####Esto quiere decir que puedes:
 
@@ -23,6 +26,7 @@ Compartir — Si re–mezclas, transformas, o construyes desde el material de Gu
 
 
 ####Dudas? por favor chequea:
+
 
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 

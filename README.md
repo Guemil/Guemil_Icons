@@ -1,5 +1,5 @@
 # Guemil Project
-Guemil is an open source pictogram initiative oriented to represent risk and emergency situations. It makes available a visual standard for diverse stages and platforms of information (before > during > after). These icons are simple & useful resources for design and applied research.
+Guemil is an open source pictogram initiative oriented to represent risk and emergency situations. It makes available a visual standard for diverse stages and platforms of information (before > during > after). Icons are simple & useful resources for design and applied research.
 
 www.guemil.info
 

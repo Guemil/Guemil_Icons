@@ -13,5 +13,5 @@ www.guemil.info
 
 Questions, comments? / Preguntas, comentarios?
 
-Please email! / Por favor escíbenos!
+Please email! / Por favor escríbenos!
 guemilproject@gmail.com

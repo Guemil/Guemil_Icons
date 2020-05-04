@@ -1,3 +1,4 @@
+
 Guemil is an open source icon initiative to represent risk and emergency situations. It makes available a graphic tool for diverse stages and platforms of information (before > during > after). Icons are simple & useful resources for communication design and applied research.
 
 **
@@ -12,4 +13,8 @@ Questions, comments? / Preguntas, comentarios?
 
 guemilproject@gmail.com
 
+<<<<<<< HEAD
 @GuemilIcons
+=======
+@GuemilIcons
+>>>>>>> origin/master

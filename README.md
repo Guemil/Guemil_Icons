@@ -14,4 +14,4 @@ Questions, comments? / Preguntas, comentarios?
 
 guemilproject@gmail.com
 
-twitter > @GuemilIcons
+twitter.com/GuemilIcons

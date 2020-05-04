@@ -6,10 +6,10 @@ Guemil es una iniciativa de iconos open source, para representar situaciones de 
 
 www.guemil.info
 
-
 **
 
 Questions, comments? / Preguntas, comentarios?
+
 guemilproject@gmail.com
 
-twitter > @GuemilIcons
+@GuemilIcons

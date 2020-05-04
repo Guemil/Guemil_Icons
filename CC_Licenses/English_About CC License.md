@@ -1,7 +1,7 @@
 #Guemil
-### Pictograms for emergency / English
+### Icons for emergency / English
 
-#### What you can, and what you can't do with this pictograms?
+#### What you can, and what you can't do with these icons?
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />

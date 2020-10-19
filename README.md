@@ -10,7 +10,7 @@ Guemil permite disponer de una herramienta gráfica para diversas etapas y plata
 
 ### Creative Commons License | Licencia Creative Commons
 
-Guemil is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+Guemil Icons for Emergency is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 **This means that you are free to:**
 
@@ -26,7 +26,7 @@ The licensor cannot revoke these freedoms as long as you follow **the license te
 
 - **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
-Guemil está bajo una licencia de <a rel="Licencia" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es">Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)</a>.
+Guemil Íconos para la Emergencia utiliza licencia de <a rel="Licencia" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es">Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)</a>.
 
 **Usted es libre de:**
 

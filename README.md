@@ -20,9 +20,7 @@ Guemil is licensed under a <a rel="license" href="http://creativecommons.org/lic
 
 **Adapt** — remix, transform, and build upon the material
 
-The licensor cannot revoke these freedoms as long as you follow the license terms.
-
-#### Under the following terms:
+The licensor cannot revoke these freedoms as long as you follow **the license terms**.
 
 **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 
